@@ -1,0 +1,9 @@
+D:\Proyectos Xamarin\Agenda\Agenda.Domain\bin\Debug\netstandard2.0\Agenda.Domain.deps.json
+D:\Proyectos Xamarin\Agenda\Agenda.Domain\bin\Debug\netstandard2.0\Agenda.Domain.dll
+D:\Proyectos Xamarin\Agenda\Agenda.Domain\bin\Debug\netstandard2.0\Agenda.Domain.pdb
+D:\Proyectos Xamarin\Agenda\Agenda.Domain\obj\Debug\netstandard2.0\Agenda.Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos Xamarin\Agenda\Agenda.Domain\obj\Debug\netstandard2.0\Agenda.Domain.AssemblyInfoInputs.cache
+D:\Proyectos Xamarin\Agenda\Agenda.Domain\obj\Debug\netstandard2.0\Agenda.Domain.AssemblyInfo.cs
+D:\Proyectos Xamarin\Agenda\Agenda.Domain\obj\Debug\netstandard2.0\Agenda.Domain.dll
+D:\Proyectos Xamarin\Agenda\Agenda.Domain\obj\Debug\netstandard2.0\Agenda.Domain.pdb
+D:\Proyectos Xamarin\Agenda\Agenda.Domain\obj\Debug\netstandard2.0\Agenda.Domain.csprojAssemblyReference.cache

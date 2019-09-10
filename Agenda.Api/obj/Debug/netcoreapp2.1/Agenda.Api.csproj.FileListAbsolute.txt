@@ -1,0 +1,17 @@
+D:\Proyectos Xamarin\Agenda\Agenda.Api\bin\Debug\netcoreapp2.1\Agenda.Api.deps.json
+D:\Proyectos Xamarin\Agenda\Agenda.Api\bin\Debug\netcoreapp2.1\Agenda.Api.runtimeconfig.json
+D:\Proyectos Xamarin\Agenda\Agenda.Api\bin\Debug\netcoreapp2.1\Agenda.Api.runtimeconfig.dev.json
+D:\Proyectos Xamarin\Agenda\Agenda.Api\bin\Debug\netcoreapp2.1\Agenda.Api.dll
+D:\Proyectos Xamarin\Agenda\Agenda.Api\bin\Debug\netcoreapp2.1\Agenda.Api.pdb
+D:\Proyectos Xamarin\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.csprojAssemblyReference.cache
+D:\Proyectos Xamarin\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.csproj.CoreCompileInputs.cache
+D:\Proyectos Xamarin\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.RazorAssemblyInfo.cache
+D:\Proyectos Xamarin\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.RazorAssemblyInfo.cs
+D:\Proyectos Xamarin\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.AssemblyInfoInputs.cache
+D:\Proyectos Xamarin\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.AssemblyInfo.cs
+D:\Proyectos Xamarin\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.RazorTargetAssemblyInfo.cache
+D:\Proyectos Xamarin\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.dll
+D:\Proyectos Xamarin\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.pdb
+D:\Proyectos Xamarin\Agenda\Agenda.Api\bin\Debug\netcoreapp2.1\Agenda.Domain.dll
+D:\Proyectos Xamarin\Agenda\Agenda.Api\bin\Debug\netcoreapp2.1\Agenda.Domain.pdb
+D:\Proyectos Xamarin\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.csproj.CopyComplete
